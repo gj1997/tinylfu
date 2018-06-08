@@ -1,0 +1,8 @@
+= Start
+@ /lib/x86_64-linux-gnu/libc.so.6:(__strdup+0x1a)[0x7f87df21348a] + 0x16fb6a0 0xf
+@ /lib/x86_64-linux-gnu/libc.so.6:(__strdup+0x1a)[0x7f87df21348a] + 0x16fb6c0 0xf
+@ /lib/x86_64-linux-gnu/libc.so.6:(__strdup+0x1a)[0x7f87df21348a] + 0x16fb6e0 0xd
+@ /lib/x86_64-linux-gnu/libc.so.6:(clearenv+0x5d)[0x7f87df1c1e9d] - 0x16fb010
+@ /lib/x86_64-linux-gnu/libc.so.6:[0x7f87df1c1a19] + 0x16fb010 0x10
+@ /lib/x86_64-linux-gnu/libc.so.6:[0x7f87df1c1b69] + 0x16fb030 0x16
+@ /lib/x86_64-linux-gnu/libc.so.6:(tsearch+0
